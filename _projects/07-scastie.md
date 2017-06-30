@@ -27,7 +27,7 @@ Want to see what Scastie can do? Check out our [ray tracer demo using Scala.js o
 
 <a href="/resources/img/blog/scastie/scastie2.png" target="_blank">
   <img alt="scastie screenshot"
-       src="/resources/img/blog/scastie/scastie2.png">
+       src="/resources/img/scastie2.png">
 </a>
 
 Scastie is an original idea from Aleh Aleshka ([OlegYch](https://github.com/OlegYch/)).
